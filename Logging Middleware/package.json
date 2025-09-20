@@ -1,0 +1,8 @@
+{
+  "name": "custom-logging-middleware",
+  "version": "1.0.0",
+  "description": "A reusable logging package for the test submission.",
+  "main": "index.js",
+  "type": "module"
+}
+
